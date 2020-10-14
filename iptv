@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1, TRT SPOR HD
+https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1, TRT SPOR2 HD
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1, SPORTS TV HD
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1, beIN SPORTS HABER
+https://www.youtube.com/channel/UCPe9vNjHF1kEExT5kHwc7aw/live
+#EXTINF:-1, TFF TV(SADECE KÜÇÜKLER MİLLİ TAKIM MAÇLARI OLDUĞUNDA AÇILIR)
+https://www.youtube.com/channel/UCVoNfzLtczc_TV8-xKjcmKg/live
+#EXTINF:-1, A SPOR HD
+https://www.youtube.com/channel/UCJElRTCNEmLemgirqvsW63Q/live
