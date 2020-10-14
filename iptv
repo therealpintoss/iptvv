@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, A SPOR HD
+https://r3---sn-u0g3jxaa-5q5l.googlevideo.com/videoplayback?expire=1602724806&ei=Zk-HX-X5LJH1-gbM85jwDA&ip=176.88.21.75&id=-Hl_trm8JCI.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=YN&mm=44%2C29&mn=sn-u0g3jxaa-5q5l%2Csn-nv47lnls&ms=lva%2Crdu&mv=m&mvi=3&pl=22&initcwndbps=813750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1602703098&fvip=3&keepalive=yes&fexp=23915654&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIgN439rXVxpQDkIvferFAy3gaiUZmvQUkASfsf_ZYC5y4CIQDybPvEj-4i9yJJ8puiAFQMqSKOO2h_Nm5y71PJimbqgg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgUw4R-bA1i0TQFNv9CXHRwGUnfq4D8-mmcp_1flRYA1ACIAdt1_cbr5-EjRBqKwi69E3PqmVRctJkpr2wr4pAGsSg&alr=yes&cpn=TXa5WIvR8GoTSYdR&cver=2.20201013.02.02&headm=3&rn=1
 #EXTINF:-1, TRT SPOR HD
 https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1, TRT SPOR2 HD
@@ -9,5 +11,3 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://www.youtube.com/channel/UCPe9vNjHF1kEExT5kHwc7aw/live
 #EXTINF:-1, TFF TV(SADECE KÜÇÜKLER MİLLİ TAKIM MAÇLARI OLDUĞUNDA AÇILIR)
 https://www.youtube.com/channel/UCVoNfzLtczc_TV8-xKjcmKg/live
-#EXTINF:-1, A SPOR HD
-https://www.youtube.com/channel/UCJElRTCNEmLemgirqvsW63Q/live
